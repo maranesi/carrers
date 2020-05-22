@@ -38,6 +38,3 @@ Development of applications and systems for web clients.
 * [Senior Developer - Web Proficient](https://github.com/maranesi/carrers/blob/master/Carrers/Career%20D%20-%20Level%20I.md)
 * [Specialist - Web Expert ](https://github.com/maranesi/carrers/blob/master/Carrers/Career%20D%20-%20Level%20II.md)
 * [Web Architect](https://github.com/maranesi/carrers/blob/master/Carrers/Career%20D%20-%20Level%20III.md)
-
-
-

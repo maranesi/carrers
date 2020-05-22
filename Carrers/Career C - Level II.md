@@ -1,12 +1,12 @@
 # Specialist - Mobile Expert
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Senior Developer - Mobile Proficient
 - Dominio de Expressões Regulares
 
 # Desejável
 
-# Perfil esperado
+# Expected profile

@@ -1,10 +1,10 @@
 # Senior Developer - Backend Proficient
 
-## Responsabilidades
+## Responsibilities
 
 In this development role, you will architect, design and develop customer facing applications that require high availability, concurrency, multi-tenancy, and high scalability for a large global user base. The individual in this role will work intimately with various aspect of developing backend services and data storage and retrieval.
 
-## Requisitos
+## Requirements
 
 - Senior Developer
 - Advanced knowledge some language
@@ -50,9 +50,9 @@ In this development role, you will architect, design and develop customer facing
 - Experience with some Cloud: AWS, GGP, Azure
 - Experience with some Cloud Services: API Gateway, CDN, Lambda, VPC
 
-# Desejável
+# Desirable
 - Understand the Viper architecture
 
-# Perfil esperado
+# Expected profile
 - Business vision
 - Can transfer knowledge and qualify employees with less seniority

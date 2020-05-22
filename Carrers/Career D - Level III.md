@@ -1,11 +1,11 @@
 # Web Architect
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Specialist - Web Expert 
 
 # Desejável
 
-# Perfil esperado
+# Expected profile

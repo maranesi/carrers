@@ -1,10 +1,10 @@
 # Specialist - Backend Expert
 
-## Responsabilidades
+## Responsibilities
 
 Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do desenvolvimento de software e na priorização correta das demandas existentes e alta capacidade de entrega.
 
-## Requisitos
+## Requirements
 
 - Senior Developer - Backend Proficient
 - Dominio de Expressões Regulares
@@ -44,4 +44,4 @@ Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do dese
 
 # Desejável
 
-# Perfil esperado
+# Expected profile

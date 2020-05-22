@@ -1,11 +1,11 @@
 # Mobile Architect
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Specialist - Mobile Expert
 
 # Desejável
 
-# Perfil esperado
+# Expected profile

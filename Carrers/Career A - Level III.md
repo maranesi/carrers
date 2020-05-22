@@ -1,8 +1,8 @@
 # Senior Developer
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Middle Developer
 - Intermediate knowledge some language
@@ -49,13 +49,14 @@
     - Cypress
     - Azure DevTest Labs
 
-# Desejável
+# Desirable
 
 - Conhecimentos em estratégias de cache
 - Fulltext search 
 - Mensageria
 
-# Perfil esperado
+# Expected profile
+
 - Pesquisador nas horas vagas, trazendo novidades que podem ser realmente aplicadas nos projetos
 - Traz críticas em relação a ferramentas utilizadas, com o objetivo de melhorar o desenvolvimento
 - Engajamento com a equipe, para crescimento sustentável de todos.

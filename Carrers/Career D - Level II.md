@@ -1,12 +1,12 @@
 # Specialist - Web Expert 
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Senior Developer - Web Proficient
 - Dominio de Expressões Regulares
 
 # Desejável
 
-# Perfil esperado
+# Expected profile

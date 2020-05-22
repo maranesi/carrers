@@ -1,10 +1,10 @@
 # Middle Developer
 
-## Responsabilidades
+## Responsibilities
 
 Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de software. Seu foco de atuação é na análise e desenvolvimento das funcionalidades dos software, sugerindo melhorias no processo e auxiliando os programadores junior e estagiários sempre que houver possibilidade/necessidade.
 
-## Requisitos
+## Requirements
 
 - Junior Developer
 - Basic knowledge some language
@@ -42,13 +42,13 @@ Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de s
     - Rational Unified Process (RUP)
     - Crystal
 
-# Desejável
+# Desirable
 
 - Conhecer paradigma funcional
 - Conhecimentos avançados de algum framework MVC
 - Conhecimentos em bancos de dados NoSQL
 
-# Perfil esperado
+# Expected profile
 
 - Disciplina e organização é fundamental
 - Senso crítico

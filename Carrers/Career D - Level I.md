@@ -1,8 +1,8 @@
 # Senior Developer - Web Proficient
 
-## Responsabilidades
+## Responsibilities
 
-## Requisitos
+## Requirements
 
 - Senior Developer
 - Arquitetura
@@ -10,6 +10,6 @@
 
 # Desejável
 
-# Perfil esperado
+# Expected profile
 - Visão de negócios
 - Consegue repassar conhecimento e qualificar as pessoas com menor senioridade
