@@ -32,7 +32,6 @@ Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de s
 - Aplica as regras de clean code e object calisthenics
 - Conhecimento e compreensão da motivação do gerenciamento de assets (otimização de imagens, minificação, concatenação, cache busting)
 - Utiliza testes de unidade
-- Conhecimento sobre Cloud Computing (IaaS, PaaS e SaaS)
 - Conhece o manifesto ágil e seus princípios
 - Conhece ao menos uma metodologia abaixo:
     - SCRUM

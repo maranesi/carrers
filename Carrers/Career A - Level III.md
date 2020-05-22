@@ -33,17 +33,16 @@
     - Contexto Delimitado 
     - Mapas de Contexto
     - Objeto de valor
-- Conhecimento basico sobre docker
-    - Conceitos basicos: imagem, container, volumes, network.
-    - Construir containers com docker build
+- Basic knowledge about Docker
+    - Image, container, volumes, network
+    - Command docker build
 - Conhecimento mais avançado do uso do git (merge, rebase, stash, branch, tag, cherry­pick)
 	- Gerenciamento de branchs para desenvolvimento em equipe
 - Consegue analisar um problema, pensando nas necessidades a serem contempladas computacionalmente, trazendo soluções viáveis
 - Conhecimento mais avançado do uso do git (merge, rebase, stash, branch, tag, cherry­pick)
 	- Gerenciamento de branchs para desenvolvimento em equipe
-- Conhece o manifesto ágil e seus princípios, e entende os papéis definidos pelo SCRUM.
-- Conhecimento basico sobre Cloud Computing (IaaS, PaaS e SaaS)
-- Conhecer ao menos uma tool de testing
+- Basic knowledge about Cloud Computing (IaaS, PaaS e SaaS)
+- Has proficiency in one of the following testing tools
     - Postman
     - SoapUI
     - Cypress
