@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044f6a54-9cbf-4a8d-82bd-f5d46b13c2cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career A - Level I.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career A - Level II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career A - Level III.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career B - Level I.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career B - Level II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career B - Level III.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career C - Level I.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career C - Level II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career C - Level III.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career D - Level I.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career D - Level II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Career D - Level III.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Base Level I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Base Level II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career A - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Base Level III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Backend Level I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Backend Level II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career B - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Backend Level III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Mobile Level I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Mobile Level II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career C - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Mobile Level III.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level I.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Web Level I.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level II.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Web Level II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrers/Career D - Level III.md" beforeDir="false" afterPath="$PROJECT_DIR$/Carrers/Web Level III.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590153928751</updated>
-      <workItem from="1590153931019" duration="97000" />
+      <workItem from="1590153931019" duration="915000" />
     </task>
     <servers />
   </component>
@@ -64,9 +70,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="-783" width="801" height="572" key="find.popup" timestamp="1590154026041">
+    <state x="404" y="-783" width="801" height="572" key="find.popup" timestamp="1590156190400">
       <screen x="-547" y="-1057" width="2560" height="1057" />
     </state>
-    <state x="404" y="-783" width="801" height="572" key="find.popup/0.23.1440.826/-547.-1057.2560.1057@-547.-1057.2560.1057" timestamp="1590154026041" />
+    <state x="404" y="-783" width="801" height="572" key="find.popup/0.23.1440.826/-547.-1057.2560.1057@-547.-1057.2560.1057" timestamp="1590156190400" />
   </component>
 </project>
