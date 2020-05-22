@@ -6,7 +6,8 @@ Desenvolvedor com experiência um pouco mais consolidada no desenvolvimento de s
 
 ## Requisitos
 
-- Todas as do Developer Level I, porém com maior desenvoltura (qualidade, produtividade e autonomia)
+- Junior Developer
+- Basic knowledge some language
 - Entende a diferença entre classes e data structures
 - Conhecimento mais aprofundado sobre o protocolo HTTP
 	- Utilização correta dos métodos (ao menos OPTIONS, GET, POST, PUT e DELETE)

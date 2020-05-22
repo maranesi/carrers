@@ -2,21 +2,21 @@
 
 ## Responsabilidades
 
-Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do desenvolvimento de software e na priorização correta das demandas existentes e alta capacidade de entrega.
+In this development role, you will architect, design and develop customer facing applications that require high availability, concurrency, multi-tenancy, and high scalability for a large global user base. The individual in this role will work intimately with various aspect of developing backend services and data storage and retrieval.
 
 ## Requisitos
 
 - Senior Developer
-- Conhecimento sobre o funcionamento interno de um framework e qual a motivação de sua utilização sabendo identificar seus componentes e suas funcionalidades
-- Utilização mais avançada de bancos de dados relacionais
-    - Backup e recuperação
-- Utilização de bancos de dados não relacionais
-    - find and update operators
-- Utilização Redis
-- Utilização Elasticsearch
-- Conhecimento sobre data lake e data exchange
-- Conhecimento basico sobre alguma ferramenta de menssageria 
-    - RabbitMQ, Kafka, Scribe
+- Advanced knowledge some language
+- Knowledge about the inner workings of a framework and the motivation for its use knowing how to identify its components and functionality
+- Experience and deep understanding of relational database
+    - Backup and Recovery
+- Experience with NoSQL
+    - Find and update operators
+- Experience with scalable data stores like Redis, Cassandra and/or Voldemort
+- Experience with search engine like Elasticsearch
+- Deep understanding on Data Lake and Data Exchange
+- Experience with using queuing systems such as RabbitMQ, Kafka, Scribe
 - Patterns
     - Publish–subscribe
     - Specification
@@ -34,31 +34,25 @@ Desenvolvedor com habilidades extremamente evoluídas em todas as etapas do dese
     - Identity Map
     - Lazy Load
     - Front Controller
-- Arquitetura
+    - CQRS
+    - Event Sourcing
+    - Saga
+- Understand the architectures:
     - Model View Presenter (MVP)
     - Onion Architecture
-- Conhecimento de arquitetura
-    - CQRS
-    - Arquitetura orientada a eventos
-    - Event Sourcing
-    - Saga Pattern 
-- Conhecimento sobre docker
-    - Orquestração com docker-compose
+    - Event-driven Architecture (EDA)
+- Experience with container orchestration using docker-compose
 - Load Testing
     - Fullstack : ab, http_load, jmetter
     - Single Component (data): sql-bench, sysbench
-- Utilização de Mock, Spy e Stub nos testes.
-- Conhecer ao menos uma tool de Bug Tracking
-    - Datadog
-    - Instabug
-    - AWS X-Ray
-    - Bugsnag
-- Conhecimento sobre deternimados serviços alguma cloud (AWS, GGP, Azure)
-    - API Gateway, CDN, Lambda, VPC
+- Utilization of Mock, Spy and Stub in unit tests
+- Experience with some Bug Tracking tool: Datadog, Instabug, AWS X-Ray, Bugsnag
+- Experience with some Cloud: AWS, GGP, Azure
+- Experience with some Cloud Services: API Gateway, CDN, Lambda, VPC
 
 # Desejável
-- Conhecer a arquitetura Viper
+- Understand the Viper architecture
 
 # Perfil esperado
-- Visão de negócios
-- Consegue repassar conhecimento e qualificar as pessoas com menor senioridade
+- Business vision
+- Can transfer knowledge and qualify employees with less seniority

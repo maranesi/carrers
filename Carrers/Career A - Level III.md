@@ -4,7 +4,8 @@
 
 ## Requisitos
 
-- Todas as do Senior Developer, porém com maior desenvoltura (qualidade, produtividade e autonomia)
+- Middle Developer
+- Intermediate knowledge some language
 - Utilização avançada de bancos de dados relacionais
     - Gerenciamento de permissões
 	- Dominio de store procedures, triggers e indices
